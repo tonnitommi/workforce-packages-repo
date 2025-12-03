@@ -1,8 +1,0 @@
-channels:
-  - conda-forge
-dependencies:
-  - python=3.12.11
-  - uv=0.8.13 
-  - pip:
-    - robocorp==3.0.0
-    - requests=2.32.5
